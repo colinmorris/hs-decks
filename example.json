@@ -1,0 +1,10 @@
+[
+	[
+		{"date": "2016/04/04", 
+		"name": "Priest Control", 
+		"tournament": "Insomnia Truesilver Championship", 
+		"player": "Ness", "cost": 5520, 
+		"cards": 
+			{"Velen's Chosen": 2, "Power Word: Shield": 2, "Justicar Trueheart": 1, "Cabal Shadow Priest": 2, "Circle of Healing": 2, "Holy Nova": 1, "Deathlord": 2, "Harrison Jones": 1, "Auchenai Soulpriest": 2, "Zombie Chow": 2, "Northshire Cleric": 2, "Acolyte of Pain": 2, "Shadow Word: Death": 1, "Elise Starseeker": 1, "Flash Heal": 2, "Lightbomb": 2, "Wild Pyromancer": 2, "Entomb": 1}, 
+		"archetype": "Control", "class": "Priest"}
+	]
